@@ -6,7 +6,7 @@ Recuerden reconstruir los modulos de Node
 ```
 npm install
 ```
-y para construir el build recuerden 
+y para construir el build recuerden que
 ```
 npm run build
 ```
